@@ -25,12 +25,14 @@ Every folder represents a different stage of my learning journey, beginning with
 ## 📍 Phase 1 — Python Fundamentals
 
 ### Introduction
+
 - What is Python?
 - Installing Python
 - IDE Setup
 - Running Python Programs
 
 ### Basics
+
 - Variables
 - Data Types
 - Type Casting
@@ -38,6 +40,7 @@ Every folder represents a different stage of my learning journey, beginning with
 - Comments
 
 ### Operators
+
 - Arithmetic
 - Assignment
 - Comparison
@@ -47,6 +50,7 @@ Every folder represents a different stage of my learning journey, beginning with
 - Bitwise
 
 ### Control Flow
+
 - if
 - if-else
 - elif
@@ -54,6 +58,7 @@ Every folder represents a different stage of my learning journey, beginning with
 - Match Case
 
 ### Loops
+
 - for Loop
 - while Loop
 - break
@@ -62,6 +67,7 @@ Every folder represents a different stage of my learning journey, beginning with
 - Nested Loops
 
 ### Functions
+
 - Function Definition
 - Parameters
 - Return Statement
@@ -78,7 +84,7 @@ Every folder represents a different stage of my learning journey, beginning with
 - Sets
 - Dictionaries
 
-Operations
+### Operations
 
 - Searching
 - Sorting
@@ -137,7 +143,7 @@ Operations
 
 Projects built while learning Python fundamentals.
 
-Examples
+### Examples
 
 - Random Password Generator
 - Student Grade Calculator
@@ -152,7 +158,7 @@ Examples
 
 Learning how Python automates repetitive tasks.
 
-Topics
+### Topics
 
 - File Automation
 - Folder Organization
@@ -163,7 +169,7 @@ Topics
 - API Integration
 - Task Scheduling
 
-Libraries
+### Libraries
 
 - os
 - shutil
@@ -182,7 +188,7 @@ Libraries
 
 Python for data analysis.
 
-Topics
+### Topics
 
 - NumPy
 - Pandas
@@ -192,14 +198,14 @@ Topics
 - Data Visualization
 - Exploratory Data Analysis (EDA)
 
-Libraries
+### Libraries
 
 - NumPy
 - Pandas
 - Matplotlib
 - Plotly
 
-Projects
+### Projects
 
 - Sales Analysis
 - HR Analytics
@@ -212,13 +218,13 @@ Projects
 
 Working with databases using Python.
 
-Topics
+### Topics
 
 - SQLite
 - MySQL
 - PostgreSQL
 
-Libraries
+### Libraries
 
 - sqlite3
 - mysql-connector
@@ -272,7 +278,7 @@ Libraries
 
 Real-world applications combining everything learned.
 
-Examples
+### Examples
 
 - Expense Tracker
 - Library Management System
@@ -284,9 +290,41 @@ Examples
 
 ---
 
+# 🧮 NumPy Day 3 — Advanced Practice
+
+This practice focuses on applying NumPy concepts to data analysis problems.
+
+### Topics Covered
+
+- Array creation using `np.arange()`
+- Array reshaping
+- Array flattening
+- Boolean masking
+- Conditional filtering using `np.where()`
+- Axis-wise calculations
+- Sum
+- Mean
+- Median
+- Standard deviation
+- Variance
+- Maximum and minimum values
+- Conditional filtering
+- 2D sales data analysis
+- Sales classification using NumPy
+
+### Objective
+
+The objective of this practice is to strengthen NumPy skills required for data analysis and prepare for working with Pandas and real-world datasets.
+
+---
+
 # 🛠 Tech Stack
 
 - Python 3
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly
 - VS Code
 - Git
 - GitHub
@@ -297,24 +335,24 @@ Examples
 
 This repository is part of my journey toward becoming a **Data Analyst**.
 
-Current Learning Path
+### Current Learning Path
 
-Python Fundamentals
-⬇️
-Object-Oriented Programming
-⬇️
-Automation
-⬇️
-NumPy
-⬇️
-Pandas
-⬇️
-Data Visualization
-⬇️
-SQL Integration
-⬇️
-Data Analytics Projects
-⬇️
+Python Fundamentals  
+⬇️  
+Object-Oriented Programming  
+⬇️  
+Automation  
+⬇️  
+NumPy  
+⬇️  
+Pandas  
+⬇️  
+Data Visualization  
+⬇️  
+SQL Integration  
+⬇️  
+Data Analytics Projects  
+⬇️  
 Machine Learning Basics
 
 ---
@@ -324,3 +362,16 @@ Machine Learning Basics
 This repository is continuously updated as I learn new Python concepts, build automation scripts, and complete data analytics projects.
 
 ⭐ Every commit represents consistent learning and practical implementation.
+
+---
+
+# 👨‍💻 Author
+
+**Rupesh Patil**
+
+Computer Engineering Student  
+Aspiring Data Analyst
+
+---
+
+⭐ If you find this learning journey useful, consider giving the repository a star!
