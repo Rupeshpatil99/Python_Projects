@@ -353,25 +353,6 @@ SQL Integration
 ⬇️  
 Data Analytics Projects  
 ⬇️  
-Machine Learning Basics
-
----
-
-# 📌 Repository Status
-
-This repository is continuously updated as I learn new Python concepts, build automation scripts, and complete data analytics projects.
-
-⭐ Every commit represents consistent learning and practical implementation.
-
----
-
-# 👨‍💻 Author
-
-**Rupesh Patil**
-
-Computer Engineering Student  
-Aspiring Data Analyst
-
----
+Machine Learning Ba
 
 ⭐ If you find this learning journey useful, consider giving the repository a star!
