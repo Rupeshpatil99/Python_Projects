@@ -28,6 +28,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install numpy
 
-      - name: Run NumPy Practice
-        run: |
-          python numpy_practices/numpy_day03.py
+     - name: Run NumPy Practice
+  run: |
+    python numpy_day03.py
