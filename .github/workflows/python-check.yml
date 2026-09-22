@@ -11,7 +11,6 @@ on:
 
 jobs:
   python-check:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -28,6 +27,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install numpy
 
-     - name: Run NumPy Practice
-  run: |
-    python numpy_day03.py
+      - name: Run NumPy Practice
+        run: |
+          python numpy_day03.py
